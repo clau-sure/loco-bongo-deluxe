@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.scss";
 import "./assets/Noah Text Heavy.ttf"
-import logo from './assets/lb-logo.svg'
+import logo from './assets/lb-deluxe.svg'
 
 
 function App() {
@@ -31,7 +31,6 @@ function App() {
   }
 
   const enterNumber = () => {
-    console.log(prevNumber)
     let inputValue = document.getElementById("add").value;
     if (inputValue > 0 && inputValue <= 90) {
       let classList = document.getElementById(inputValue).classList;
@@ -89,6 +88,7 @@ function App() {
             id="add"
             min="1"
             max="90"
+            placeholder={prevNumber ? prevNumber : ''}
             defaultValue="null"
             onKeyDown={enterAdd}
           ></input>

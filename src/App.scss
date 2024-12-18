@@ -23,6 +23,8 @@ body {
   display: flex;
   padding: 5vh 10vh;
   justify-content: space-between;
+  width: 1792px;
+  height: 798px;
 }
 
 .wrapper {
@@ -67,12 +69,12 @@ body {
 }
 
 .lastSelected {
-	-webkit-animation: bounce-in-top 1.1s forwards, blink-1 2s 1.6s infinite both;
-	animation: bounce-in-top 1.1s forwards, blink-1 2s 1.6s infinite both;
-        background-color: #e31f83;
+/* 	-webkit-animation: bounce-in-top 1.1s forwards, blink-1 2s 1.6s infinite both;
+	animation: bounce-in-top 1.1s forwards, blink-1 2s 1.6s infinite both; */
+        background-color: white;
 
   p {
-        color:#eddf4a;
+        color:#924893;
   }
 }
 
@@ -100,6 +102,10 @@ input {
         text-align: center;
         caret-color: transparent;
 }
+
+input::placeholder {
+        color:#eddf4a;
+      }
 
 input:focus {
         color:#eddf4a;
