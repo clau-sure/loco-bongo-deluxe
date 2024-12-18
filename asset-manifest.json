@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/loco-bongo-deluxe/static/css/main.dc89278d.css",
+    "main.css": "/loco-bongo-deluxe/static/css/main.9b144f6b.css",
     "main.js": "/loco-bongo-deluxe/static/js/main.19cee1ba.js",
     "static/media/Noah Text Heavy.ttf": "/loco-bongo-deluxe/static/media/Noah Text Heavy.1582614767b27fcdcae5.ttf",
     "static/media/lb-deluxe.svg": "/loco-bongo-deluxe/static/media/lb-deluxe.b4dcff5c32ff48f7bdd7c9efe176b472.svg",
     "index.html": "/loco-bongo-deluxe/index.html",
-    "main.dc89278d.css.map": "/loco-bongo-deluxe/static/css/main.dc89278d.css.map",
+    "main.9b144f6b.css.map": "/loco-bongo-deluxe/static/css/main.9b144f6b.css.map",
     "main.19cee1ba.js.map": "/loco-bongo-deluxe/static/js/main.19cee1ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc89278d.css",
+    "static/css/main.9b144f6b.css",
     "static/js/main.19cee1ba.js"
   ]
 }
