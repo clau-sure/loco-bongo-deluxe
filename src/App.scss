@@ -55,7 +55,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 80px;
+  width: 110px;
 }
 
 .inputs {
@@ -76,12 +76,12 @@ body {
 }
 
 .lastSelected {
-/* 	-webkit-animation: bounce-in-top 1.1s forwards, blink-1 2s 1.6s infinite both;
-	animation: bounce-in-top 1.1s forwards, blink-1 2s 1.6s infinite both; */
-        background-color: white;
+	-webkit-animation: bounce-in-top 1.1s forwards, blink-1 2s 1.6s infinite both;
+	animation: bounce-in-top 1.1s forwards, blink-1 2s 1.6s infinite both;
+        background-color: #e31f83;
 
   p {
-        color:#924893;
+        color: #eddf4a;
   }
 }
 
