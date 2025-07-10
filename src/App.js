@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.scss";
 import "./assets/Noah Text Heavy.ttf"
-import logo from './assets/lb-deluxe.svg'
+import logo from './assets/deluxenegro.png'
 
 
 function App() {
@@ -46,11 +46,15 @@ function App() {
       }
       setPrevNumber(inputValue);
     }
+    console.log(document.getElementById("add"))
     document.getElementById("add").value = null;
   };
 
   return (
     <div className="both">
+      <div className="logo_div">
+      <img src={logo} alt="LocoBongo logo" className="logo" />
+      </div>
       <div className="wrapper">
         <div className="first_row">
           {numbers(1, 10)}
@@ -80,20 +84,16 @@ function App() {
           {numbers(81, 90)}
         </div>
       </div>
-      <div className="inputs">
-        <img src={logo} alt="LocoBongo logo" />
         <div className="inputdiv">
           <input
             type="number"
             id="add"
             min="1"
             max="90"
-            placeholder={prevNumber ? prevNumber : ''}
             defaultValue="null"
             onKeyDown={enterAdd}
           ></input>
         </div>
-      </div>
     </div>
   );
 }
