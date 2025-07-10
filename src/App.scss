@@ -23,6 +23,7 @@
               background-color: #1090a7;
               width: 2160px;
               height: 1080px;
+              position: relative;
       }
       
       .both {
@@ -39,7 +40,7 @@
       }
       .logo_div {
         position: absolute;
-        right: 50%;
+        right: 850px;
         top: 50px;
         .logo {
                 width: 550px;
@@ -52,7 +53,7 @@
       
         .first_row {
               display: flex;
-              border-bottom: 3px solid #ff8f57;
+              border-bottom: 5px solid #ff8f57;
               justify-content: space-between;
         }
       
@@ -113,7 +114,7 @@
               background-color: transparent;
               color: white;
               border: none;
-              border-bottom: 12px solid #ff8f57;
+              border-bottom: 8px solid #ff8f57;
               font-size: 340px;
               text-align: center;
               caret-color: transparent;
