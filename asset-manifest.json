@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/loco-bongo-deluxe/static/css/main.9b144f6b.css",
-    "main.js": "/loco-bongo-deluxe/static/js/main.19cee1ba.js",
+    "main.css": "/loco-bongo-deluxe/static/css/main.7fa0df76.css",
+    "main.js": "/loco-bongo-deluxe/static/js/main.0779601b.js",
     "static/media/Noah Text Heavy.ttf": "/loco-bongo-deluxe/static/media/Noah Text Heavy.1582614767b27fcdcae5.ttf",
-    "static/media/lb-deluxe.svg": "/loco-bongo-deluxe/static/media/lb-deluxe.b4dcff5c32ff48f7bdd7c9efe176b472.svg",
+    "static/media/deluxenegro.png": "/loco-bongo-deluxe/static/media/deluxenegro.4909d6812ccd6dacc61a.png",
     "index.html": "/loco-bongo-deluxe/index.html",
-    "main.9b144f6b.css.map": "/loco-bongo-deluxe/static/css/main.9b144f6b.css.map",
-    "main.19cee1ba.js.map": "/loco-bongo-deluxe/static/js/main.19cee1ba.js.map"
+    "main.7fa0df76.css.map": "/loco-bongo-deluxe/static/css/main.7fa0df76.css.map",
+    "main.0779601b.js.map": "/loco-bongo-deluxe/static/js/main.0779601b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b144f6b.css",
-    "static/js/main.19cee1ba.js"
+    "static/css/main.7fa0df76.css",
+    "static/js/main.0779601b.js"
   ]
 }
