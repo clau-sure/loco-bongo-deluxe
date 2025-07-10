@@ -29,7 +29,7 @@
       .both {
               display: flex;
               flex-direction: row;
-              padding: 50px 250px 50px 100px;
+              padding: 50px 250px 50px 180px;
               justify-content: space-between;
               max-width: 2160px;
               max-height: 1080px;
@@ -41,14 +41,14 @@
       .logo_div {
         position: absolute;
         right: 850px;
-        top: 50px;
+        top: 90px;
         .logo {
                 width: 550px;
         }
       }
       
       .wrapper {
-        width: 1200px;
+        width: 1130px;
         height: max-content;
       
         .first_row {
@@ -64,11 +64,11 @@
       }
       
       .number {
-        height: 75px;
+        height: 70px;
         display: flex;
         align-items: center;
         justify-content: center;
-        width: 70px;
+        width: 112px;
       }
       
       .inputs {
@@ -107,7 +107,7 @@
         font-size: large;
         color:white;
         font-weight: bold;
-        font-size: 60px;
+        font-size: 55px;
       }
       
       input {
