@@ -29,14 +29,14 @@
       .both {
               display: flex;
               flex-direction: row;
-              padding: 50px 250px 50px 180px;
+              padding: 50px 250px 50px 230px;
               justify-content: space-between;
               max-width: 2160px;
               max-height: 1080px;
               height: 980px;
               align-items: flex-end;
               width: -webkit-fill-available;
-              gap: 80px;
+              gap: 40px;
       }
       .logo_div {
         position: absolute;
