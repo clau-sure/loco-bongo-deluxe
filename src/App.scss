@@ -21,34 +21,34 @@
       
       #root {
               background-color: #1090a7;
-              width: 2300px;
-              height: 800px;
+              width: 2160px;
+              height: 1400px;
               position: relative;
-              display: flex;
-              align-items: center;
-              justify-content: center;
       }
       
       .both {
               display: flex;
               flex-direction: row;
-              padding: 50px;
+              padding: 50px 250px 50px 360px;
               justify-content: space-between;
-              max-width: 924px;
-              max-height: 412px;
-              height: 412px;
+              max-width: 2160px;
+              max-height: 1200px;
+              height: 1060px;
               align-items: flex-end;
               width: -webkit-fill-available;
-              gap: 30px;
+              gap: 40px;
       }
       .logo_div {
+        position: absolute;
+        right: 850px;
+        top: 130px;
         .logo {
-                width: 240px;
+                width: 550px;
         }
       }
       
       .wrapper {
-        width: 650px;
+        width: 1000px;
         height: max-content;
       
         .first_row {
@@ -64,7 +64,7 @@
       }
       
       .number {
-        height: 40px;
+        height: 70px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -81,11 +81,8 @@
       }
       
       .inputdiv {
-              max-width: 250px;
-              padding-bottom: 30px;
-              display: flex;
-              flex-direction: column;
-              align-items: center;
+              max-width: 30vw;
+              padding-bottom: 170px;
       }
       
       .lastSelected {
@@ -110,7 +107,7 @@
         font-size: large;
         color:white;
         font-weight: bold;
-        font-size: 25px;
+        font-size: 55px;
       }
       
       input {
@@ -118,7 +115,7 @@
               color: white;
               border: none;
               border-bottom: 8px solid #ff8f57;
-              font-size: 140px;
+              font-size: 340px;
               text-align: center;
               caret-color: transparent;
       }
