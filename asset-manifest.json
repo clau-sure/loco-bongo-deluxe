@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/loco-bongo-deluxe/static/css/main.4aff3820.css",
-    "main.js": "/loco-bongo-deluxe/static/js/main.fec984d2.js",
+    "main.css": "/loco-bongo-deluxe/static/css/main.4991ab25.css",
+    "main.js": "/loco-bongo-deluxe/static/js/main.3f2f7176.js",
     "static/media/Noah Text Heavy.ttf": "/loco-bongo-deluxe/static/media/Noah Text Heavy.1582614767b27fcdcae5.ttf",
     "static/media/lb-sin-deluxe.png": "/loco-bongo-deluxe/static/media/lb-sin-deluxe.50f7fb8532bcaa3f21d5.png",
     "index.html": "/loco-bongo-deluxe/index.html",
-    "main.4aff3820.css.map": "/loco-bongo-deluxe/static/css/main.4aff3820.css.map",
-    "main.fec984d2.js.map": "/loco-bongo-deluxe/static/js/main.fec984d2.js.map"
+    "main.4991ab25.css.map": "/loco-bongo-deluxe/static/css/main.4991ab25.css.map",
+    "main.3f2f7176.js.map": "/loco-bongo-deluxe/static/js/main.3f2f7176.js.map"
   },
   "entrypoints": [
-    "static/css/main.4aff3820.css",
-    "static/js/main.fec984d2.js"
+    "static/css/main.4991ab25.css",
+    "static/js/main.3f2f7176.js"
   ]
 }
